@@ -16,8 +16,8 @@
 - Internship: Bachelor Thesis in VITEC GmbH (Kiel)  
   - developing a Video-based Fire and Smoke detection solution with Keras
   - designing CNN models scalable and adaptable to user datasets 
-  - using segmentation and writing merging algorithms for object localization ![](cvChenSihan.004.png) 11/2018 - 01/2019 
-
+  - using segmentation and writing merging algorithms for object localization
+  
 > 11/2018 - 01/2019
 - Internship: Software backend development intern in Web Development department, iAuto (Shanghai) Co., Ltd.
     - co-designing e-r diagrams 
@@ -29,11 +29,11 @@
 
 **programming**
 
-- firm in python & Java & Scala & C++ & Erlang
+- firm in python, Java, Scala, PHP
 - firm in full-stack development, web frameworks Spring (Java), Django (Python), Databases (MySQL, MongoDB, H5)
 - firm in Deep Learning with Keras, tensorflow, Dlib, OpenCV
 - acquainted with data science, web-crawling, data analysis and machine learning algorithms and implementation
-- acquainted with building distributed services with Hadoop, Spark 
+- acquainted with distributed programming with Spark
 
 
 **pragmatic tools**
@@ -68,7 +68,7 @@
 
 > 09/2016-07/2020
 
-- class committee responsible for studying 09/2016-07/2020, aggregating abroad-study reference service for on a website
+- class committee responsible for studying 09/2016 - 07/2020, aggregating abroad-study reference service for on a website
 
 > 09/2017
 - volunteer for recruiting new students
