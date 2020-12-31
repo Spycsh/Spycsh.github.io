@@ -1,6 +1,18 @@
+<h1> Resume <a class="btn" href="#" style="text-align:right" onclick="
+  var markdownPath = 'content.md';
+  var language = localStorage.getItem('locale') || window.navigator.language.toLowerCase() || 'en';
+  if (language.indexOf('zh-') !== -1) {
+      markdownPath = '../content.md';
+      localStorage.setItem('locale', 'en');
+  }else{
+    markdownPath = '../content_zh-cn.md'
+    localStorage.setItem('locale', 'zh-cn');
+  }
+  getMarkdown(markdownPath);">
+  <i class="fa fa-language" title="change language" aria-hidden="true"></i></a>
+</h1> 
+
 ## Education
-
-
 
 |**Time** |**Major** |**School Name**|**Degree** |
 | - | - |- | - |

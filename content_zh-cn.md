@@ -1,3 +1,17 @@
+<h1> 简历 <a class="btn" href="#" style="text-align:right" onclick="  // 改变当前语言。en=>cn, cn=>en
+  var markdownPath = 'content.md';
+  var language = localStorage.getItem('locale') || window.navigator.language.toLowerCase() || 'en';
+  if (language.indexOf('zh-') !== -1) {
+      markdownPath = '../content.md';
+      localStorage.setItem('locale', 'en');
+  }else{
+    markdownPath = '../content_zh-cn.md'
+    localStorage.setItem('locale', 'zh-cn');
+  }
+  getMarkdown(markdownPath);">
+  <i class="fa fa-language" title="change language" aria-hidden="true"></i></a>
+</h1> 
+
 ## 教育
 
 
