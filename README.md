@@ -1,10 +1,14 @@
-# Minimal Theme
+# My personal main page based on Minimal Theme
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+[Demo the original Theme](http://orderedlist.github.com/minimal/)
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+[Theme Author](https://github.com/orderedlist)
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+I customize it for my daily use of my personal main page:
+
+* You can specify the content of two languages by just editing the content.md(English) and content_zh-cn.md(Chinese), and the ajax request will automatically render the content to your website
+
+* The website will, based on your browser default language, render the content in content.md or content_zh-cn.md, or you can manually click the language icon to change the language
 
 # License
 
