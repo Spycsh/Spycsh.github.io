@@ -44,8 +44,9 @@
 - firm in Python, Java, Scala, PHP
 - firm in full-stack development, web frameworks Spring (Java), Django (Python), Databases (MySQL, MongoDB, H5)
 - firm in Deep Learning (Keras, tensorflow, Dlib, OpenCV) and traditional Machine Learning algorithms
-- acquainted with data science, web-crawling, data analysis
 - acquainted with distributed algorithms, distributed computing tools (Spark, Kafka)
+- acquainted with data science, web-crawling, data analysis
+
 
 
 **pragmatic tools**
