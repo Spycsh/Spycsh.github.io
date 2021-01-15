@@ -44,9 +44,9 @@
 
 - 掌握 python, Java, Scala, PHP
 - 熟悉全栈开发,Web框架Spring（Java）,Django（Python）,数据库（MySQL，MongoDB，H5）
-- 熟悉深度学习模型, 使用深度学习tensorflow Keras, Dlib, OpenCV进行目标检测与分类
+- 熟悉深度学习模型, 使用深度学习tensorflow Keras, Dlib, OpenCV进行目标检测与分类, 熟悉传统机器学习算法
+- 熟悉分布式算法, 分布式计算常用工具（Spark, Kafka)
 - 熟悉数据爬取, 数据预处理, 机器学习算法和实现
-- 熟悉使用Spark进行分布式编程
 
 
 **实用工具**
