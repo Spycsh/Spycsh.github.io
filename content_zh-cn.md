@@ -26,13 +26,13 @@
 
 > 03/2020 - 06/2020 
 
-- VITEC GmbH（德国，基尔）学士学位论文  
+- [VITEC GmbH](https://www.vitec.com/home)（德国，基尔）学士学位论文  
   - 使用tensorflow, Keras, GPU开发基于视频的火灾和烟雾探测解决方案
   - 设计可扩展并适应用户数据集的CNN模型 
   - 使用分割算法和合并算法进行对象定位
 
 > 11/2018 - 01/2019
-- iAuto（上海）Co.，Ltd. Web开发部的软件后端开发实习生
+- [iAuto（上海）Co.，Ltd.](https://www.iauto.com/) Web开发部的软件后端开发实习生
     - 协助设计 ER 图, 编写数据库Model类
     - 后端开发接口编写和测试
     - 使用selenium爬虫自动化测试
