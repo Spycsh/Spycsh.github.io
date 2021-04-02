@@ -66,7 +66,8 @@
 ## 项目经历
 
 - Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
-- 电影推荐系统 - 基于Scala，Spark，MongoDB，Elasticsearch，AngularJS的推荐系统，目前正在构建中 (https://github.com/Spycsh/MovieRecommenderSystem)
+- 电影推荐系统 - 基于Scala，Spark，MongoDB，Elasticsearch，AngularJS的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
+- 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性 (https://github.com/Chen-Zidi/check-modified-contents-link-validity-action)
 - 分子预测项目 - 预测分子活性的数据科学课程项目 (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - 数字食谱 - 基于MySQL，javafx，MVC模式的简单数字食谱 (https://github.com/Spycsh/DigitalCookbook)
 - 景观收集器 - 基于PHP，XAMPP，MySQL的简单景观收集器 (https://github.com/Spycsh/landscapeCollector)
