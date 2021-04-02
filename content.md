@@ -25,13 +25,13 @@
 
 > 03/2020 - 06/2020 
 
-- Internship: Bachelor Thesis in VITEC GmbH (Kiel)  
+- Internship: Bachelor Thesis in [VITEC GmbH](https://www.vitec.com/ez-tv-platform-iptv-digital-signage) (Kiel)  
   - developing a Video-based Fire and Smoke detection solution with Keras
   - designing CNN models scalable and adaptable to user datasets 
   - using segmentation and writing merging algorithms for object localization
   
 > 11/2018 - 01/2019
-- Internship: Software backend development intern in Web Development department, iAuto (Shanghai) Co., Ltd.
+- Internship: Software backend development intern in Web Development department, [iAuto (Shanghai) Co., Ltd](https://www.iauto.com/).
     - co-designing e-r diagrams 
     - coding interfaces for backend development
     - rewriting database logics with ORM (object relational Mapping)
