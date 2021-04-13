@@ -67,7 +67,7 @@
 
 - Face GUI - a gui implementation of face recognition, emotion tracking and face searching (https://github.com/Spycsh/faceproject)
 - Movie Recommender system - a recommender system based on Scala, Spark, MongoDB, Elasticsearch, AngularJS, currently in construction (https://github.com/Spycsh/MovieRecommenderSystem)
-- a GitHub Action, used to automatically check the validity of the links in the modified content of a new pull request (https://github.com/Chen-Zidi/check-modified-contents-link-validity-action)
+- a GitHub Action, used to automatically check the validity of the links in the modified content of a new pull request (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
 - Molecular prediction project - a datascience course project to predict molecular activity (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - Digital Cookbook - a simple digital cookbook based on MySQL, javafx, MVC pattern (https://github.com/Spycsh/DigitalCookbook)
 - Landscape Collector - a simple landscape collector based on PHP, XAMPP, MySQL (https://github.com/Spycsh/landscapeCollector)
