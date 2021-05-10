@@ -65,6 +65,7 @@
 
 ## 项目经历
 
+- RunSpec - 基于kafka，spark，mongodb的安卓跑步app (https://github.com/Spycsh/RunSpec)
 - Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
 - 电影推荐系统 - 基于Scala，Spark，MongoDB，Elasticsearch，AngularJS的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
 - 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性 (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
