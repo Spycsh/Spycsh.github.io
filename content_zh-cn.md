@@ -24,8 +24,12 @@
 
 ## 实习 
 
-> 03/2020 - 06/2020 
+> 05/2021 - now
+- [Ericsson](https://www.ericsson.com/en) summer intern
+  - Erlang
+  - property based testing
 
+> 03/2020 - 06/2020 
 - [VITEC GmbH](https://www.vitec.com/ez-tv-platform-iptv-digital-signage)（德国，基尔）学士学位论文  
   - 使用tensorflow, Keras, GPU开发基于视频的火灾和烟雾探测解决方案
   - 设计可扩展并适应用户数据集的CNN模型 
