@@ -23,6 +23,12 @@
 
 ## Internships 
 
+> 05/2021 - now
+
+- Internship: Software Developer Intern in [Ericsson](https://www.ericsson.com/en) (Stockholm)
+  - Erlang
+  - property based testing
+
 > 03/2020 - 06/2020 
 
 - Internship: Bachelor Thesis in [VITEC GmbH](https://www.vitec.com/ez-tv-platform-iptv-digital-signage) (Kiel)  
