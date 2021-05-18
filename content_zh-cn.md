@@ -25,7 +25,7 @@
 ## 实习 
 
 > 05/2021 - now
-- [Ericsson](https://www.ericsson.com/en) summer intern
+- [Ericsson](https://www.ericsson.com/en) 暑期实习
   - Erlang
   - property based testing
 
