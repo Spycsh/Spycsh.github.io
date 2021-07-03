@@ -27,7 +27,7 @@
 > 05/2021 - now
 - [Ericsson](https://www.ericsson.com/en) 暑期实习
   - Erlang
-  - RCS 中间件
+  - Radio Control System middleware
   - property based testing
 
 > 03/2020 - 06/2020 
