@@ -27,7 +27,7 @@
 
 - Internship: Software Developer Intern in [Ericsson](https://www.ericsson.com/en) (Stockholm)
   - Erlang
-  - RCS middleware
+  - Radio Control System middleware
   - property based testing
 
 > 03/2020 - 06/2020 
