@@ -22,11 +22,17 @@
 |09/2016 - 02/2019|电气工程及其自动化, 中德合作项目|华东理工大学, 中德合作项目|工学学士|
 |09/2013 - 06/2016||复旦大学附属中学||
 
-## 实习 
+## 实习
 
-> 05/2021 - now
+> 02/2022 至今
+
+- [cda group](https://cda-group.github.io/) 硕士论文
+  - 构建一个基于Apache Flink Stateful Functions的时序图数据库
+  - 实现基于消息传递的流式图算法
+  - 实现时序图的存储与查询
+
+> 05/2021 - 08/2021
 - [Ericsson](https://www.ericsson.com/en) 暑期实习
-  - Erlang
   - Radio Control System middleware
   - property based testing
 
@@ -47,19 +53,16 @@
 
 **编程**
 
-- 掌握 python, Java, Scala, PHP
-- 熟悉全栈开发,Web框架Spring（Java）,Django（Python）,数据库（MySQL，MongoDB，H5）
-- 熟悉深度学习模型, 使用深度学习tensorflow Keras, Dlib, OpenCV进行目标检测与分类
-- 熟悉分布式算法, 分布式计算常用工具（Spark, Kafka)
-- 熟悉数据爬取, 数据预处理, 传统机器学习算法实现
+- 掌握 Java, Python, 熟悉Scala, Erlang, HTML/JS/CSS
+- 熟悉全栈开发, Web框架, 数据库（MySQL，MongoDB, PostgreSQL, Neo4j）
+- 熟悉分布式算法, 分布式计算常用工具（Spark, Kafka, Flink, Hadoop)
+- 熟悉深度学习（Keras, tensorflow, Dlib, 
+OpenCV, GNN）和一些传统机器学习算法
 
 
 **实用工具**
 
-- Markdown, Latex 
-- Git, Github 
-- MySQL/ SQLAlchemy/ MongoDB 
-- Eclipse/ Pycharm/ Vscode/ IntelliJ 
+- 重度使用Git, Github，在GitHub上对大型开源项目有多个PR和issue解决
 
 **语言** 
 
@@ -70,15 +73,16 @@
 
 ## 项目经历
 
+- hesse - 基于Flink Stateful Functions的时序图数据库, 硕士论文项目 (https://github.com/Spycsh/hesse)
 - RunSpec - 基于kafka，spark，mongodb的安卓跑步app (https://github.com/Spycsh/RunSpec)
-- Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
 - 电影推荐系统 - 基于Scala，Spark，MongoDB，Elasticsearch，AngularJS的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
+- Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
 - 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性 (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
-- 分子预测项目 - 预测分子活性的数据科学课程项目 (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
+<!-- - 分子预测项目 - 预测分子活性的数据科学课程项目 (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - 数字食谱 - 基于MySQL，javafx，MVC模式的简单数字食谱 (https://github.com/Spycsh/DigitalCookbook)
 - 景观收集器 - 基于PHP，XAMPP，MySQL的简单景观收集器 (https://github.com/Spycsh/landscapeCollector)
 - SEP系统 - 基于SpringBoot，H2数据库的简单ERP系统 (https://github.com/Spycsh/KTH-ID2207-Project)
-- BombMan - 一个基于phaser.js的html5游戏 (https://github.com/Spycsh/BombMan)
+- BombMan - 一个基于phaser.js的html5游戏 (https://github.com/Spycsh/BombMan) -->
 
 
 ## 志愿者经历
