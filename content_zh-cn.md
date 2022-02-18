@@ -75,7 +75,7 @@ OpenCV, GNN）和一些传统机器学习算法
 
 - hesse - 基于Flink Stateful Functions的时序图数据库, 硕士论文项目 (https://github.com/Spycsh/hesse)
 - RunSpec - 基于kafka，spark，mongodb的安卓跑步app (https://github.com/Spycsh/RunSpec)
-- 电影推荐系统 - 基于Scala，Spark，MongoDB，Elasticsearch，AngularJS的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
+- 电影推荐系统 - 基于Scala，Spark，MongoDB，Redis的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
 - Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
 - 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性 (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
 <!-- - 分子预测项目 - 预测分子活性的数据科学课程项目 (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)

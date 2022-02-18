@@ -23,10 +23,17 @@
 
 ## Internships 
 
-> 05/2021 - now
+> 02/2022 - now
+
+- Master thesis in [cda group](https://cda-group.github.io/) 
+  - construct a temporal graph library based on Flink Stateful Functions
+  - implement streaming graph algorithms based on message passing
+  - implement the storage and query of temporal graph
+
+
+> 05/2021 - 08/2021
 
 - Internship: Software Developer Intern in [Ericsson](https://www.ericsson.com/en) (Stockholm)
-  - Erlang
   - Radio Control System middleware
   - property based testing
 
@@ -48,20 +55,14 @@
 
 **programming**
 
-- firm in Python, Java, Scala, PHP
-- firm in full-stack development, web frameworks Spring (Java), Django (Python), Databases (MySQL, MongoDB, H5)
-- firm in Deep Learning (Keras, tensorflow, Dlib, OpenCV) and traditional Machine Learning algorithms
-- acquainted with distributed algorithms, distributed computing tools (Spark, Kafka)
-- acquainted with data science, web-crawling, data analysis
-
-
+- firm in Java, Python, Scala, Erlang, HTML/JS/CSS
+- firm in full-stack development, web frameworks, Databases (MySQL, MongoDB, PostgreSQL, Neo4j)
+- firm with distributed algorithms, distributed computing tools (Spark, Kafka, Flink, Hadoop)
+- acquainted with Deep Learning (Keras, tensorflow, Dlib, OpenCV, GNN) and traditional Machine Learning algorithms
 
 **pragmatic tools**
 
-- Markdown, Latex 
-- Git, Github 
-- MySQL/ SQLAlchemy/ MongoDB 
-- Eclipse/ Pycharm/ Vscode/ IntelliJ 
+- Heavy use of Git, Github, many opensource issure fixes and pull requests of big opensource projects on GitHub
 
 **language** 
 
@@ -71,15 +72,16 @@
 
 
 ## Project experience
+- hesse - a temporal graph library based on Apache Flink Stateful Functions, master thesis project (https://github.com/Spycsh/hesse)
 - RunSpec - an android running app with backend based on kafka+spark+mongodb (https://github.com/Spycsh/RunSpec)
 - Face GUI - a gui implementation of face recognition, emotion tracking and face searching (https://github.com/Spycsh/faceproject)
-- Movie Recommender system - a recommender system based on Scala, Spark, MongoDB, Elasticsearch, AngularJS, currently in construction (https://github.com/Spycsh/MovieRecommenderSystem)
+- Movie Recommender system - a recommender system based on Scala, Spark, MongoDB, Redis (https://github.com/Spycsh/MovieRecommenderSystem)
 - a GitHub Action, used to automatically check the validity of the links in the modified content of a new pull request (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
-- Molecular prediction project - a datascience course project to predict molecular activity (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
+<!-- - Molecular prediction project - a datascience course project to predict molecular activity (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - Digital Cookbook - a simple digital cookbook based on MySQL, javafx, MVC pattern (https://github.com/Spycsh/DigitalCookbook)
 - Landscape Collector - a simple landscape collector based on PHP, XAMPP, MySQL (https://github.com/Spycsh/landscapeCollector)
 - SEP System - a simple ERP system based on SpringBoot, H2 database (https://github.com/Spycsh/KTH-ID2207-Project)
-- BombMan - a html5 game based on phaser.js (https://github.com/Spycsh/BombMan)
+- BombMan - a html5 game based on phaser.js (https://github.com/Spycsh/BombMan) -->
 
 
 ## Voluntary work
