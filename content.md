@@ -63,6 +63,7 @@
 **pragmatic tools**
 
 - Heavy use of Git, Github, many opensource issure fixes and pull requests of big opensource projects on GitHub
+- Docker, Minikube
 
 **language** 
 

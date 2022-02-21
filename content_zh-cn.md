@@ -63,6 +63,7 @@ OpenCV, GNN）和一些传统机器学习算法
 **实用工具**
 
 - 重度使用Git, Github，在GitHub上对大型开源项目有多个PR和issue解决
+- Docker, Minikube
 
 **语言** 
 
