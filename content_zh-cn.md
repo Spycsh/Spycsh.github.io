@@ -26,28 +26,30 @@
 
 > 02/2022 至今
 
-- [cda group](https://cda-group.github.io/) 硕士论文
+- [RISE (Research Institute of Sweden) cda group](https://cda-group.github.io/) 硕士论文
   - 构建一个基于Apache Flink Stateful Functions的时序图数据库
   - 实现基于消息传递的流式图算法
   - 实现时序图的存储与查询
 
+> 08/2021 - 10/2021
+
+- [EMQX](https://github.com/emqx/emqx) 开源实习
+  - 解决 issues
+  - 增加 CI 脚本和集群部署脚本
+  - 完善官方文档
+
 > 05/2021 - 08/2021
+
 - [Ericsson](https://www.ericsson.com/en) 暑期实习
-  - Radio Control System middleware
+  - Radio Control System 中间件
   - property based testing
 
-> 03/2020 - 06/2020 
+> 03/2020 - 06/2020
+
 - [VITEC GmbH](https://www.vitec.com/ez-tv-platform-iptv-digital-signage)（德国，基尔）学士学位论文  
   - 使用tensorflow, Keras, GPU开发基于视频的火灾和烟雾探测解决方案
   - 设计可扩展并适应用户数据集的CNN模型 
   - 使用分割算法和合并算法进行对象定位
-
-> 11/2018 - 01/2019
-- [iAuto（上海）Co.，Ltd.](https://www.iauto.com/) Web开发部的软件后端开发实习生
-    - 协助设计 ER 图, 编写数据库Model类
-    - 后端开发接口编写和测试
-    - 使用selenium爬虫自动化测试
-    - 测试和修正bug
 
 ## 技能
 
@@ -72,13 +74,14 @@ OpenCV, GNN）和一些传统机器学习算法
 - 德语 (日常交流)
 
 
-## 项目经历
+## 项目经历 (https://github.com/Spycsh/)
 
-- hesse - 基于Flink Stateful Functions的时序图数据库, 硕士论文项目 (https://github.com/Spycsh/hesse)
-- RunSpec - 基于kafka，spark，mongodb的安卓跑步app (https://github.com/Spycsh/RunSpec)
-- 电影推荐系统 - 基于Scala，Spark，MongoDB，Redis的推荐系统后端 (https://github.com/Spycsh/MovieRecommenderSystem)
-- Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现 (https://github.com/Spycsh/faceproject)
-- 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性 (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
+- hesse - 基于Flink Stateful Functions的时序图数据库, 硕士论文项目
+- RunSpec - 基于kafka，spark，mongodb的安卓跑步app
+- distributedKVStore - 一个基于Paxos的KV Store
+- 电影推荐系统 - 基于Scala，Spark，MongoDB，Redis的推荐系统后端
+- Face GUI - 人脸识别，情感跟踪和人脸搜索的GUI实现
+- 一个GitHub Action, 用于自动检测pull request中增加内容中含有的链接有效性
 <!-- - 分子预测项目 - 预测分子活性的数据科学课程项目 (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - 数字食谱 - 基于MySQL，javafx，MVC模式的简单数字食谱 (https://github.com/Spycsh/DigitalCookbook)
 - 景观收集器 - 基于PHP，XAMPP，MySQL的简单景观收集器 (https://github.com/Spycsh/landscapeCollector)

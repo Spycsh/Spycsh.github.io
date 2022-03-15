@@ -25,10 +25,17 @@
 
 > 02/2022 - now
 
-- Master thesis in [cda group](https://cda-group.github.io/) 
+- Master thesis in [RISE (Research Institute of Sweden) cda group](https://cda-group.github.io/) 
   - construct a temporal graph library based on Flink Stateful Functions
   - implement streaming graph algorithms based on message passing
   - implement the storage and query of temporal graph
+
+> 08/2021 - 10/2021
+
+- Opensource internships in [EMQX](https://github.com/emqx/emqx)
+  - issues fix
+  - add CI scripts and cluster scripts
+  - refactor official blog
 
 
 > 05/2021 - 08/2021
@@ -44,12 +51,12 @@
   - designing CNN models scalable and adaptable to user datasets 
   - using segmentation and writing merging algorithms for object localization
   
-> 11/2018 - 01/2019
+<!-- > 11/2018 - 01/2019
 - Internship: Software backend development intern in Web Development department, [iAuto (Shanghai) Co., Ltd](https://www.iauto.com/).
     - co-designing e-r diagrams 
     - coding interfaces for backend development
     - rewriting database logics with ORM (object relational Mapping)
-    - testing and amending bugs
+    - testing and amending bugs -->
 
 ## Skills
 
@@ -72,12 +79,12 @@
 - German (daily communication)
 
 
-## Project experience
-- hesse - a temporal graph library based on Apache Flink Stateful Functions, master thesis project (https://github.com/Spycsh/hesse)
-- RunSpec - an android running app with backend based on kafka+spark+mongodb (https://github.com/Spycsh/RunSpec)
-- Face GUI - a gui implementation of face recognition, emotion tracking and face searching (https://github.com/Spycsh/faceproject)
-- Movie Recommender system - a recommender system based on Scala, Spark, MongoDB, Redis (https://github.com/Spycsh/MovieRecommenderSystem)
-- a GitHub Action, used to automatically check the validity of the links in the modified content of a new pull request (https://github.com/marketplace/actions/check-links-in-the-modified-content-validity)
+## Project experience (https://github.com/Spycsh/)
+- hesse - a temporal graph library based on Apache Flink Stateful Functions, master thesis project
+- RunSpec - an android running app with backend based on kafka+spark+mongodb
+- Face GUI - a gui implementation of face recognition, emotion tracking and face searching
+- Movie Recommender system - a recommender system based on Scala, Spark, MongoDB, Redis
+- a GitHub Action, used to automatically check the validity of the links in the modified content of a new pull request
 <!-- - Molecular prediction project - a datascience course project to predict molecular activity (https://github.com/Spycsh/DataScienceNoteBooks/tree/main/projects/modular-activity-prediction-project)
 - Digital Cookbook - a simple digital cookbook based on MySQL, javafx, MVC pattern (https://github.com/Spycsh/DigitalCookbook)
 - Landscape Collector - a simple landscape collector based on PHP, XAMPP, MySQL (https://github.com/Spycsh/landscapeCollector)
@@ -101,4 +108,4 @@
 
 - Sports — 4 gold medals in 400m & 800m running races in high school
 - Music — amateur violinist certificate of level 10th from Shanghai Conservatory of Music
-
+- Writing — build a [personal blog](https://spycsh.github.io/blog/)

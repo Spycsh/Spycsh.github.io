@@ -14,5 +14,12 @@ I customize it for my daily use of my personal main page:
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
+# Convert resume markdown to pdf
 
+```
+pandoc content.md -o cv.docx
+
+# add the photo and headers
+# and then convert docx to pdf
+```
 
