@@ -16,16 +16,23 @@
 
 |**Time** |**Major** |**School Name**|**Degree** |
 | - | - |- | - |
-|Since 08/2020 (Expected 07/2022 graduated)|Software Engineering of Distributed System|KTH Royal Institute of Technology|Master of Science|Master of Science|
+|08/2020 - 08/2022|Software Engineering of Distributed System|KTH Royal Institute of Technology|Master of Science|Master of Science|
 |03/2019 - 07/2020|Information Technology| Technische Hochschule Lübeck, Sino-German Program| Bachelor of Science |
 |09/2016 - 02/2019|Electrical Engineering and Automation|East China University of Science and Technology, Sino-German program|Bachelor of Engineering|
 |09/2013 - 06/2016||High school affiliated to Fudan University||
+
+## Work experience
+
+> 08/2022 - now
+
+- Machine Learning Engineer at [Intel](https://www.intel.com/content/www/us/en/jobs/locations/china.html)
 
 ## Internships 
 
 > 02/2022 - now
 
 - Master thesis in [RISE (Research Institute of Sweden) cda group](https://cda-group.github.io/) 
+  co-supervised by Paris Carbone and Vasiliki Kalavri
   - construct a temporal graph library based on Flink Stateful Functions
   - implement streaming graph algorithms based on message passing
   - implement the storage and query of temporal graph
@@ -69,7 +76,7 @@
 
 **pragmatic tools**
 
-- Heavy use of Git, Github, many opensource issure fixes and pull requests of big opensource projects on GitHub
+- Heavy use of Git, Github, many opensource issue fixes and pull requests of big opensource projects on GitHub
 - Docker, Minikube
 
 **language** 
@@ -77,7 +84,6 @@
 - Chinese (native language) 
 - English (proficient) 
 - German (daily communication)
-
 
 ## Project experience (https://github.com/Spycsh/)
 - hesse - a temporal graph library based on Apache Flink Stateful Functions, master thesis project

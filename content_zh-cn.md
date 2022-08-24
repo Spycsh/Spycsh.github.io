@@ -17,11 +17,16 @@
 
 |**时间** |**专业** |**学校**|**学位** |
 | - | - |- | - |
-|08/2020 至今(预期 07/2022 毕业)|Software Engineering of Distributed System|KTH 瑞典皇家理工学院|Master of Science|
+|08/2020 - 08/2022|Software Engineering of Distributed System|KTH 瑞典皇家理工学院|Master of Science|
 |03/2019 - 07/2020|Information Technology| 吕贝克应用技术大学, 中德合作项目|Bachelor of Science|
 |09/2016 - 02/2019|电气工程及其自动化, 中德合作项目|华东理工大学, 中德合作项目|工学学士|
 |09/2013 - 06/2016||复旦大学附属中学||
 
+## 工作经历
+
+> 08/2022 至今
+
+- Machine Learning Engineer at [Intel](https://www.intel.com/content/www/us/en/jobs/locations/china.html)
 ## 实习
 
 > 02/2022 至今
